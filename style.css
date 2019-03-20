@@ -1,0 +1,22 @@
+.btn {
+    margin-bottom: 10px;
+}
+
+body {
+    margin-top: 120px;
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+}
+
+.bg-primary,
+.table-primary,
+.table-primary>th,
+.table-primary>td,
+.btn-primary {
+    background-color: #8c4dd2 !important;
+    background: #8c4dd2 !important;
+    border-color: #8c4dd2 !important;
+}
